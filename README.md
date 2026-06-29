@@ -1,3 +1,10 @@
+<p align="center">
+  <img alt="appstore_03_brand" src="https://github.com/user-attachments/assets/3cbe7905-0071-41f2-9a9f-34c31642bbfe" width="32%"/>
+  <img alt="appstore_02_send" src="https://github.com/user-attachments/assets/650da7de-a52c-42e4-9628-8e88d701c310" width="32%"/>
+  <img alt="appstore_01_transfers" src="https://github.com/user-attachments/assets/d224d8e5-6fd9-4c4b-8439-f83fdf677d96" width="32%"/>
+</p>
+
+
 # 💸 MyPayments
 
 A SwiftUI digital‑banking demo: a **payment transfer service** that moves funds
